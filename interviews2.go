@@ -10,7 +10,7 @@ import (
 func main() {
 	fmt.Println("hello world")
 
-	text := "Penelope lives in Hawaii"
+	text := "I am living in Hawaii"
 
 	words := strings.Split(text, " ")
 
